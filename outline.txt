@@ -1,0 +1,16 @@
+----Markdown----
+1. what & why redmi.md ?
+2.how to make a comment
+3.horizental rule
+4.heading 
+5.paragraph
+6.italic
+7.bold
+8.strikethrough
+9.inline code blck
+10.multip;e line code 11.block
+11.list
+12.link
+13.image
+14.emogi
+15.table
